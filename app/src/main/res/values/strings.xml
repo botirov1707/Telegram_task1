@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Telegram_task1</string>
+    <string name="userx">Bekhruzbek Botirov</string>
+    <string name="last_seen_recently">last seen recently</string>
+    <string name="contacts">Contacts</string>
+    <string name="search">Search</string>
+</resources>
